@@ -1,5 +1,5 @@
 import React ,{useState} from 'react'
-import logo from './../hi.png'
+import logo from './../Assests/hi.png'
 import {
    FaBars,
   FaTimes,
