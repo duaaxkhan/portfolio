@@ -1,11 +1,11 @@
 import React from 'react'
-import html from '/Users/duaashahid/Desktop/portfolio/src/Assests/html.png'
-import css from '/Users/duaashahid/Desktop/portfolio/src/Assests/css.png'
-import js from '/Users/duaashahid/Desktop/portfolio/src/Assests/javascript.png'
-import git from '/Users/duaashahid/Desktop/portfolio/src/Assests/github.png'
-import mongo from '/Users/duaashahid/Desktop/portfolio/src/Assests/mongo.png'
-import  react from '/Users/duaashahid/Desktop/portfolio/src/Assests/react.png'
-import tailwind from '/Users/duaashahid/Desktop/portfolio/src/Assests/tailwind.png'
+import html from './../Assests/html.png'
+import css from './../Assests/css.png'
+import js from './../Assests/javascript.png'
+import git from './../Assests/github.png'
+import mongo from './../Assests/mongo.png'
+import  react from './../Assests/react.png'
+import tailwind from './../Assests/tailwind.png'
 import node from './../Assests/node.png'
 
 function Skills() {
