@@ -1,5 +1,5 @@
 import React ,{useState} from 'react'
-import logo from './../Assests/Black White Modern Square Frame Photography Logo-7 Background Removed.png'
+import logo from './../hi.png'
 import {
    FaBars,
   FaTimes,
