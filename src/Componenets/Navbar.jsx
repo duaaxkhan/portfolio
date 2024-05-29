@@ -1,5 +1,6 @@
 import React ,{useState} from 'react'
 import logo from './../Assests/hi.png'
+import { Link } from 'react-scroll';
 import {
    FaBars,
   FaTimes,
@@ -20,18 +21,76 @@ const Navbar = () => {
         
                 <div className='hidden md:flex'>
                <ul className='hidden md:flex'>
-                <li>Home</li>
-                <li>About</li>
-                <li>Skill</li>
-                <li>Work</li>
-                <li>Contact</li>
+                <li>
+                <Link 
+      
+      to="home" 
+      
+      smooth={true} 
+      
+      duration={500} 
+     
+    >
+      Home
+    </Link>
+                </li>
+                <li><Link 
+      
+      to="about" 
+      
+      smooth={true} 
+      
+      duration={500} 
+     
+    >
+      About
+    </Link></li>
+                <li>
+                <Link 
+      
+      to="Skills" 
+      
+      smooth={true} 
+      
+      duration={500} 
+     
+    >
+      Skill
+    </Link>
+                </li>
+                <li>
+                <Link 
+      
+      to="work" 
+      
+      smooth={true} 
+      
+      duration={500} 
+     
+    >
+      Work
+    </Link>
+                </li>
+                <li>
+                <Link 
+      
+      to="contact" 
+      
+      smooth={true} 
+      
+      duration={500} 
+     
+    >
+      Contact
+    </Link>
+                </li>
                </ul>
             </div>
 
 
             {/* Hamburger Menu */}
             <div  onClick={handleClick} className='md:hidden z-10 pr-2'>
-            {!nav?<FaBars size={40}/>:<FaTimes size={40}/>}
+            {!nav?<FaBars size={30}/>:<FaTimes size={30}/>}
             </div>
 
             {/* Mobile Menu */}
