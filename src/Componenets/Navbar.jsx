@@ -31,7 +31,7 @@ const Navbar = () => {
 
             {/* Hamburger Menu */}
             <div  onClick={handleClick} className='md:hidden z-10 pr-2'>
-            {!nav?<FaBars size={30}/>:<FaTimes size={30}/>}
+            {!nav?<FaBars size={40}/>:<FaTimes size={40}/>}
             </div>
 
             {/* Mobile Menu */}
