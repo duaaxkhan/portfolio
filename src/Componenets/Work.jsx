@@ -30,8 +30,8 @@ const Work = () => {
   return (
     <div  name="work" className=' w-full md:h-screen  bg-[#191616]'>
       <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#8892b0]'> 
-        <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 border-[#fcc0c5] text-[#8892b0] sm:text-right '>Work</p>
+        <div className='py-20'>
+          <p className='text-4xl  font-bold inline border-b-4 border-[#fcc0c5] text-[#8892b0] sm:text-right '>Work</p>
           <p className='py-6'>Check out some of my recent work</p>
         </div>
         <div 
