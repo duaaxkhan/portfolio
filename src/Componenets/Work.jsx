@@ -28,7 +28,7 @@ const Work = () => {
     window.open('https://github.com/duaaxkhan/emegram-react', '_blank');
   };
   return (
-    <div  name="work" className=' w-full md:h-screen  bg-[#191616]'>
+    <div  name="work" className=' w-full md:h-screen  bg-[#000000]'>
       <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#8892b0]'> 
         <div className='py-20'>
           <p className='text-5xl  font-bold inline border-b-4 border-[#fcc0c5] text-[#8892b0] sm:text-right '>Work</p>
