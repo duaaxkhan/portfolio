@@ -11,10 +11,10 @@ const Home = () => {
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           DUAA SHAHID
         </h1>
-        <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
+        <h2 className='md:text-5xl  sm:3xl font-bold text-[#8892b0]'>
           I'm a Computer Software Engineer.
         </h2>
-        <p className='text-[#babdc6] text-2xl sm:text-xl py-4 max-w-[700px]'>
+        <p className='text-[#babdc6] md:text-2xl sm:text-xl py-4 max-w-[700px]'>
           specializing in designing exceptional digital experiences. Currently, I’m focused on
           building responsive and user-friendly web applications which are both captivating and functional.
         </p>
