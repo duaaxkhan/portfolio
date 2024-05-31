@@ -22,7 +22,7 @@
 
   .content-div{
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     height: 250px;
 
@@ -31,9 +31,9 @@
 
   .content-div:hover{
     background-image: linear-gradient(
-      to right,
+      to left,
       rgba(194, 158, 191, 0.8),
-      hsla(308, 35%, 50%, 0.8),
+      hsla(308, 35%, 50%, 0.8), 
 
     )!important;
 
