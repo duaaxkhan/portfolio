@@ -29,9 +29,9 @@ const Work = () => {
   };
   return (
     <div  name="work" className=' w-full md:h-screen  bg-[#000000]'>
-      <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#8892b0]'> 
+      <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#a8a8a8]'> 
         <div className='py-20'>
-          <p className='text-4xl  font-bold inline border-b-4 border-[#fcc0c5] text-[#8892b0] sm:text-right '>Work</p>
+          <p className='text-4xl  font-bold inline border-b-4 border-[#fcc0c5] text-[#adadad] sm:text-right '>Work</p>
           <p className='py-6 md:text-2xl sm:text-xl'>Check out some of my recent work</p>
         </div>
         <div 

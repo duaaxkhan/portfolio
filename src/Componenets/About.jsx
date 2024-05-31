@@ -13,7 +13,7 @@ function About() {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right text-4xl font-bold text-[#fcc0c5]">
+          <div className="sm:text-right md:text-4xl  sm:text-2xl font-bold text-[#fcc0c5]">
             <p>
               Hi. I'm Duaa Shahid, nice to meet you. Please take a look around.
             </p>

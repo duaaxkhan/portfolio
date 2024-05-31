@@ -11,7 +11,7 @@ import node from './../Assests/node.png'
 function Skills() {
   return (
     <div name='Skills' className="w-full h-screen bg-[#000000]">
-      <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#8892b0]'>
+      <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#a9a9a9]'>
         <div className=' '>
             <p className=' text-4xl font-bold inline border-b-4 border-[#fcc0c5] text-[#babdc6] sm:text-right '>Skills</p>
             <p  className='py-7  md:text-2xl sm:text-xl '>These are the technologies I've worked with</p>
