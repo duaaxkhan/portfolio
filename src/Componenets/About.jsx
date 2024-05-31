@@ -18,7 +18,7 @@ function About() {
               Hi. I'm Duaa Shahid, nice to meet you. Please take a look around.
             </p>
           </div>
-          <div className="text-[#8892b0] ">
+          <div className="text-[#8892b0] text-2xl">
             <p>
               I am passionate about building interactive front-ends which are captivating and responsive. I specialize in creating software
               for clients ranging from individuals and small-businesses all the
