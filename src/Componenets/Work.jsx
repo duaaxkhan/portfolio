@@ -91,7 +91,7 @@ const Work = () => {
             </div>
           </div>
 
-          <div   style={{backgroundImage:`url(${img3})`}}
+          <div   style={{backgroundImage:`url(${img4})`}}
           className='shadow-lg shadow-[#a1696e] group container rounded-md flex justify-center items-center mx-auto content-div'>
           
           
