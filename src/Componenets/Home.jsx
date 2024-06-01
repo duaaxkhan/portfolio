@@ -19,7 +19,7 @@ const Home = () => {
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           DUAA SHAHID
         </h1>
-        <h2 className='md:text-5xl sm:text-3xl font-bold text-[#8892b0]'>
+        <h2 className='md:text-5xl sm:text-3xl font-bold text-[#b1b1b1]'>
           I'm a {''}
           <span style={{ color: 'pink' }}>
             {text}

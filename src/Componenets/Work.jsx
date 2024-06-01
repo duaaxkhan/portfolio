@@ -42,8 +42,8 @@ const Work = () => {
           
          {/* hover */}
           
-           <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold mb-30 text-white tracking-wider'>
+           <div className=' mb-10 opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold  text-white tracking-wider'>
                 Gait.Guru
                 
               </span>
@@ -69,9 +69,9 @@ const Work = () => {
           
          {/* hover */}
           
-           <div className='opacity-0 group-hover:opacity-100'>
+           <div className='mb-10 marker:opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                EMEGRAM
+                Emegram
                 
               </span>
               <div className='pt-8  text-center'>
@@ -97,8 +97,8 @@ const Work = () => {
           
          {/* hover */}
           
-           <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+           <div className=' mb-10 opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl first-line:font-bold text-white tracking-wider'>
                 Olive Website
                 
               </span>
