@@ -63,13 +63,14 @@ const Work = () => {
 
             </div>
           </div>
+
           <div   style={{backgroundImage:`url(${img3})`}}
           className='shadow-lg shadow-[#a1696e] group container rounded-md flex justify-center items-center mx-auto content-div'>
           
           
          {/* hover */}
           
-           <div className='mb-10 marker:opacity-0 group-hover:opacity-100'>
+           <div className='mb-10 opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
                 Emegram
                 
