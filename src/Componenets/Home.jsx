@@ -28,7 +28,7 @@ const Home = () => {
             <Cursor cursorStyle='|' />
           </span>
         </h2>
-        <p className='text-[#b8b8b8] md:text-2xl sm:text-xl py-4 max-w-[700px]'>
+        <p className='text-[#fffefe] md:text-3xl sm:text-2xl py-4 max-w-[700px]'>
           specializing in designing exceptional digital experiences. Currently, I’m focused on
           building responsive and user-friendly web applications which are both captivating and functional.
         </p>

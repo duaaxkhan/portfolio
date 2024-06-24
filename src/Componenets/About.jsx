@@ -13,12 +13,12 @@ function About() {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right md:text-4xl  sm:text-2xl font-bold text-[#fcc0c5]">
+          <div className="sm:text-right md:text-4xl  sm:text-3xl font-bold text-[#fcc0c5]">
             <p>
               Hi. I'm Duaa Shahid, nice to meet you. Please take a look around.
             </p>
           </div>
-          <div className="text-[#babdc6] md:text-2xl sm:text-xl ">
+          <div className="text-[#ffffff] md:text-3xl sm:text-3xl ">
             <p>
               I am passionate about building interactive front-ends which are captivating and responsive. I specialize in creating software
               for clients ranging from individuals and small-businesses all the

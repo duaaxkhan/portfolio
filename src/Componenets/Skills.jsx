@@ -11,10 +11,10 @@ import node from './../Assests/node.png'
 function Skills() {
   return (
     <div name='Skills' className="w-full h-screen bg-[#000000]">
-      <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#a9a9a9]'>
+      <div className='max-w-[1000px] mx-auto flex flex-col justify-center items-center w-full h-full text-[#ffffff]'>
         <div className=' '>
-            <p className=' text-4xl font-bold inline border-b-4 border-[#fcc0c5] text-[#babdc6] sm:text-right '>Skills</p>
-            <p  className='py-7  md:text-2xl sm:text-xl '>These are the technologies I've worked with</p>
+            <p className=' text-4xl font-bold inline border-b-4 border-[#fcc0c5] text-[#ffffff] sm:text-right '>Skills</p>
+            <p  className='py-7  md:text-3xl sm:text-2xl '>These are the technologies I've worked with</p>
         </div>
         <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
